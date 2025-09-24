@@ -155,4 +155,4 @@ Abre un Pull Request con descripción clara (qué, por qué, cómo probar).
 
 Licencia
 
-MIT — Libre uso, modificación y distribución. Agrega el archivo LICENSE si quieres formalizarlo en el repo.
+MIT — Libre uso, modificación y distribución. 
